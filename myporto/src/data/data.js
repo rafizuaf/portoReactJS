@@ -15,7 +15,7 @@ export const data=[
         id:2,
         name:"Portofolio Web Page",
         image:WebPorto,
-        github:"",
+        github:"https://github.com/rafizuaf/portoReactJS",
         live:"",
     },
     // {
