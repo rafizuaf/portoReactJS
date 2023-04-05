@@ -21,10 +21,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eos
-              repellendus eaque aspernatur dolore odio autem nihil reiciendis
-              magni maiores nulla cupiditate at sint, placeat expedita! Sunt
-              odio vel nihil.
+            I am a full stack web developer with less than a year of experience. Familiar with HTML, CSS, Javascript and its framework such as React JS and Node JS. Discipline, resilient, attention to small details and analytical thinking.
             </p>
           </div>
         </div>
