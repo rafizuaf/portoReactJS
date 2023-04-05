@@ -8,15 +8,15 @@ export const data=[
         id:1,
         name:"Job Portal Clone",
         image:Kalibrr,
-        github:"",
-        live:"",
+        github:"https://github.com/harisenincom-batch4-team1/kalibrr-frontend",
+        live:"https://kalibrr.vercel.app/",
     },
     {
         id:2,
         name:"Portofolio Web Page",
         image:WebPorto,
         github:"https://github.com/rafizuaf/portoReactJS",
-        live:"",
+        live:"/",
     },
     // {
     //     id:3,
