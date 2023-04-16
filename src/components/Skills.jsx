@@ -8,7 +8,10 @@ import Node from '../assets/node.png';
 import MySql from '../assets/mysql.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-// import Mongo from '../assets/mongo.png';
+import Mongo from '../assets/mongo.png';
+import NextJS from '../assets/nextjs.png';
+import NextAuth from '../assets/nextauth.png';
+import Prisma from '../assets/prisma.png';
 
 const Skills = () => {
   return (
@@ -31,32 +34,44 @@ const Skills = () => {
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto pt-4' src={JavaScript} alt="HTML icon" />
-                  <p className='my-4'>JAVASCRIPT</p>
+                  <p className='my-4'>JavaScript</p>
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto pt-4' src={ReactImg} alt="HTML icon" />
-                  <p className='my-4'>REACT</p>
+                  <p className='my-4'>React.JS</p>
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto pt-4' src={GitHub} alt="HTML icon" />
-                  <p className='my-4'>GITHUB</p>
+                  <p className='my-4'>GitHub</p>
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto pt-4' src={Node} alt="HTML icon" />
-                  <p className='my-4'>NODE JS</p>
+                  <p className='my-4'>Node.JS</p>
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={MySql} alt="HTML icon" />
-                  <p className='my-4'>MYSQL</p>
+                  <p className='my-4'>MySQL</p>
               </div>
               <div className='shadow-lg shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
-                  <p className='my-4'>TAILWIND</p>
+                  <p className='my-4'>Tailwind CSS</p>
               </div>
-              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={FireBase} alt="HTML icon" />
-                  <p className='my-4'>FIREBASE</p>
-              </div> */}
+              <div className='shadow-md shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
+                  <p className='my-4'>MongoDB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={NextJS} alt="HTML icon" />
+                  <p className='my-4'>Next.JS</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={NextAuth} alt="HTML icon" />
+                  <p className='my-4'>NextAuth</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:shadow-[#E6AF2E] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Prisma} alt="HTML icon" />
+                  <p className='my-4'>Prisma</p>
+              </div>
           </div>
       </div>
     </div>
