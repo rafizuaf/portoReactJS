@@ -21,18 +21,19 @@ const About = () => {
           </div>
           <div>
             <p>
-              As a full stack web developer with less than a year of experience,
-              I bring a strong understanding of web development fundamentals and
-              experience with key technologies such as HTML, CSS, Javascript,
-              React.JS, Node.JS, Tailwind CSS, Express JS, Github, and MySQL. I
-              specialize in quickly learning new skills and programming
+              A bachelor degree of Mechanical Engineering from Mercu Buana
+              University. Graduated Full-Stack Web Developer bootcamp program
+              from harisenin.com for deepening skills in Web Developer.
+              Experienced as a Front-End Developer who works with JavaScript,
+              React.js, Next.js, Node.js, Express.js, MongoDB and MySQL.
+              Specialized in quickly learning new skills and programming
               languages, implementing clean code principles, and creating
               responsive designs that optimize website performance. My strengths
               include problem-solving, website optimization, discipline,
               resilience, attention to small details, and analytical thinking. I
-              am a dedicated and driven individual who is passionate about
-              developing innovative solutions to complex problems and always
-              strives to deliver high-quality work
+              am a self-motivated, dedicated, and driven individual who is
+              passionate about developing innovative solutions to complex
+              problems and always strives to deliver high-quality work.
             </p>
           </div>
         </div>
