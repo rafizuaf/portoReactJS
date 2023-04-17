@@ -30,7 +30,7 @@ export const data=[
         description:"Netflix clone. Built using React.JS, Next.JS, Prisma, MongoDB, NextAuth, and Tailwind CSS",
         image:NetflixClone,
         github:"https://github.com/rafizuaf/netflix-clone",
-        live:"https://konzflix.vercel.app/auth",
+        live:"https://konzflix.vercel.app/",
     },
     {
         id:4,
